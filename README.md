@@ -7,4 +7,6 @@ I'm a PhD student @ [Stellenbosch University](http://www.sun.ac.za/english) and 
 - 📫 How to reach me: [dbe@sun.ac.za](https://joern.io)
 - 😄 Pronouns: he/him
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidBakerEffendi&show_icons=true&theme=algolia)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidBakerEffendi&show_icons=true&theme=algolia" alt="Dave's GitHub stats" />
+</p>
