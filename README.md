@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student @ [Stellenbosch University](http://www.sun.ac.za/english) and Director of R&D @ [Whirly Labs](https://whirlylabs.com)
+I'm CSO @ [Whirly Labs](https://whirlylabs.com) and a PhD graduate @ [Stellenbosch University](http://www.sun.ac.za/english) 
 
 - 🔭 I’m currently working on [Joern](https://joern.io) and related static analysis research
 - 👯 I’m looking to collaborate on code feature mining, partial program analysis, and accelerating program analysis with CPGs
