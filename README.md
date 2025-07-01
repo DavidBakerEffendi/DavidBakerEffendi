@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm CSO @ [Whirly Labs](https://whirlylabs.com) and a PhD graduate @ [Stellenbosch University](http://www.sun.ac.za/english) 
+I'm a senior software engineer @ [Brokk](https://brokk.ai) and a PhD graduate @ [Stellenbosch University](http://www.sun.ac.za/english) 
 
-- 🔭 I’m currently working on [Joern](https://joern.io) and related static analysis research
+- 🔭 Usually working on [Joern](https://joern.io) and related static analysis research
 - 👯 I’m looking to collaborate on code feature mining, partial program analysis, and accelerating program analysis with CPGs
-- 📫 How to reach me: [dave@whirlylabs.com](mailto:dave@whirlylabs.com)
+- 📫 How to reach me: Check my socials on [my website](https://davidbakereffendi.github.io)
 - 😄 Pronouns: he/him
